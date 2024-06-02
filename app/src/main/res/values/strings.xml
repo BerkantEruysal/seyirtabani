@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">seyirtabani</string>
+    <string name="popularity">Popülerlik</string>
+    <string name="show_image">show image</string>
+    <string name="textview">TextView</string>
+    <string name="_1122">1122</string>
+    <string name="star">⭐</string>
+    <string name="_7_3">7.3</string>
+    <string name="_2311">(2311)</string>
+</resources>
